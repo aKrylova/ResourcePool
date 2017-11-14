@@ -10,4 +10,4 @@
 
  Tourist 1 is online. -- получил доступ к компьютеру
  Tourist 2 is done, having spent 15 minutes online. -- провёл 15 минут онлайн и освободил компьютер.
- The place is empty, let's close up and go to the beach! -- кофе опустело.
+ The place is empty, let's close up and go to the beach! -- кофе опустело. 
