@@ -42,7 +42,6 @@ public class QueueThread extends Thread{
                     listTourist.removeFirst();
                     this.run();
                 }
-                //todo syncronized blocks vs method
             }
 
         } catch (InterruptedException e) {
